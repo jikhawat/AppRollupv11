@@ -1,0 +1,13 @@
+com.example.rollupapp-jetified-window-1.0.0-beta04-0 /Users/dev24/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.rollupapp-jetified-annotation-experimental-1.1.0-1 /Users/dev24/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.rollupapp-core-1.6.0-2 /Users/dev24/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.rollupapp-jetified-window-java-1.0.0-beta04-3 /Users/dev24/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.rollupapp-main-4 /Volumes/Works/WorkApp/rollup/rollupapp/android/app/src/main/res
+com.example.rollupapp-release-5 /Volumes/Works/WorkApp/rollup/rollupapp/android/app/src/release/res
+com.example.rollupapp-pngs-6 /Volumes/Works/WorkApp/rollup/rollupapp/build/app/generated/res/pngs/release
+com.example.rollupapp-resValues-7 /Volumes/Works/WorkApp/rollup/rollupapp/build/app/generated/res/resValues/release
+com.example.rollupapp-rs-8 /Volumes/Works/WorkApp/rollup/rollupapp/build/app/generated/res/rs/release
+com.example.rollupapp-mergeReleaseResources-9 /Volumes/Works/WorkApp/rollup/rollupapp/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.rollupapp-mergeReleaseResources-10 /Volumes/Works/WorkApp/rollup/rollupapp/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.rollupapp-merged_res-11 /Volumes/Works/WorkApp/rollup/rollupapp/build/app/intermediates/merged_res/release
+com.example.rollupapp-packaged_res-12 /Volumes/Works/WorkApp/rollup/rollupapp/build/path_provider_android/intermediates/packaged_res/release
